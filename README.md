@@ -19,6 +19,10 @@ The Studio scans this repo (**Apps → Sources → Refresh**) and lists everythi
 
 Commands that install software are **never** accepted from this registry; only the Studio's own local catalogue can define them.
 
+## Privacy
+
+This registry is public. Entries never contain API keys, tokens, passwords or personal emails: integrations name the environment variables they need (for example `FAL_KEY`), and the Studio stores the values in its own git-ignored `.env`. A pre-commit hook ([`scripts/check-secrets.mjs`](scripts/check-secrets.mjs)) blocks commits that would add such data; enable it after cloning with `git config core.hooksPath .githooks`.
+
 ## Add an app
 
 1. Create `apps/<id>.json` (copy any existing file; fields are described in [`schema.json`](schema.json)).
