@@ -1,0 +1,21 @@
+{
+  "id": "sam2",
+  "name": "Segment Anything 2",
+  "category": "image-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Segment and track any object",
+  "description": "Meta's model for masks in images and video.",
+  "links": {
+    "GitHub": "https://github.com/facebookresearch/sam2"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "segmentation",
+    "video"
+  ],
+  "color": "#0866FF"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "rive",
+  "name": "Rive",
+  "category": "motion",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Interactive animations with state machines",
+  "description": "Design and ship interactive vector animations.",
+  "links": {
+    "Website": "https://rive.app"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "animation",
+    "interactive"
+  ],
+  "color": "#1D1D1D"
+}

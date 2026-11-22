@@ -1,0 +1,20 @@
+{
+  "id": "lm-studio",
+  "name": "LM Studio",
+  "category": "local-ai",
+  "kind": "desktop",
+  "pricing": "free",
+  "tagline": "Desktop app for local LLMs",
+  "description": "Download and chat with open models on your computer.",
+  "links": {
+    "Website": "https://lmstudio.ai"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "llm",
+    "desktop"
+  ],
+  "color": "#4338CA"
+}

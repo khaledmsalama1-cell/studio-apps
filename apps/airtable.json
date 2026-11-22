@@ -1,0 +1,22 @@
+{
+  "id": "airtable",
+  "name": "Airtable",
+  "category": "storage",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Content calendars as databases",
+  "description": "Plan content in a database your team already uses.",
+  "links": {
+    "Website": "https://www.airtable.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "AIRTABLE_API_KEY"
+    ]
+  },
+  "tags": [
+    "planning"
+  ],
+  "color": "#FCB400"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "deepgram",
+  "name": "Deepgram",
+  "category": "transcription",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Speech-to-text API",
+  "description": "Fast transcription with diarization and smart formatting.",
+  "links": {
+    "Website": "https://deepgram.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "DEEPGRAM_API_KEY"
+    ]
+  },
+  "tags": [
+    "asr",
+    "api"
+  ],
+  "color": "#13EF93"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "chatterbox",
+  "name": "Chatterbox",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Expressive open TTS with cloning",
+  "description": "Resemble AI's MIT-licensed TTS family with emotion control and 23+ languages.",
+  "links": {
+    "GitHub": "https://github.com/resemble-ai/chatterbox"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "cloning",
+    "local"
+  ],
+  "color": "#C2410C"
+}

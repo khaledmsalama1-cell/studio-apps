@@ -1,0 +1,22 @@
+{
+  "id": "youtube-data-api",
+  "name": "YouTube Data API",
+  "category": "social-apis",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Official YouTube channel and video data",
+  "description": "Search videos and read stats with a Google API key.",
+  "links": {
+    "Docs": "https://developers.google.com/youtube/v3"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "YOUTUBE_API_KEY"
+    ]
+  },
+  "tags": [
+    "youtube"
+  ],
+  "color": "#FF0000"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "motion-canvas",
+  "name": "Motion Canvas",
+  "category": "video-engines",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Animations written in TypeScript",
+  "description": "A TypeScript library and editor for explainer-style animations, synced to voiceover.",
+  "links": {
+    "Website": "https://motioncanvas.io",
+    "GitHub": "https://github.com/motion-canvas/motion-canvas"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "animation",
+    "typescript"
+  ],
+  "color": "#33A6FF"
+}

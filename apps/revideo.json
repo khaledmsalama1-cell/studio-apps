@@ -1,0 +1,22 @@
+{
+  "id": "revideo",
+  "name": "Revideo",
+  "category": "video-engines",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Motion Canvas, built for rendering at scale",
+  "description": "A fork of Motion Canvas focused on programmatic rendering through an API.",
+  "links": {
+    "Website": "https://re.video",
+    "GitHub": "https://github.com/redotvideo/revideo"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "video",
+    "typescript"
+  ],
+  "color": "#5B5BD6"
+}

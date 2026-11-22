@@ -1,0 +1,19 @@
+{
+  "id": "buffer",
+  "name": "Buffer",
+  "category": "publishing",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Simple social scheduling",
+  "description": "Plan and publish across major networks.",
+  "links": {
+    "Website": "https://buffer.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "scheduling"
+  ],
+  "color": "#231F20"
+}

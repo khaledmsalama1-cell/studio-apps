@@ -1,0 +1,21 @@
+{
+  "id": "excalidraw",
+  "name": "Excalidraw",
+  "category": "design",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Hand-drawn style diagrams",
+  "description": "Sketch diagrams for explainer videos and carousels.",
+  "links": {
+    "Website": "https://excalidraw.com",
+    "GitHub": "https://github.com/excalidraw/excalidraw"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "diagrams"
+  ],
+  "color": "#6965DB"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "d-id",
+  "name": "D-ID",
+  "category": "avatars",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Talking photos and agents",
+  "description": "Animate a portrait into a speaking video; API available.",
+  "links": {
+    "Website": "https://www.d-id.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "DID_API_KEY"
+    ]
+  },
+  "tags": [
+    "avatar",
+    "api"
+  ],
+  "color": "#00C2FF"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "openai-images",
+  "name": "OpenAI Images",
+  "category": "image-gen",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Image generation from the OpenAI API",
+  "description": "Generate and edit images with OpenAI's image models.",
+  "links": {
+    "Docs": "https://platform.openai.com/docs/guides/image-generation"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "OPENAI_API_KEY"
+    ]
+  },
+  "tags": [
+    "image",
+    "api"
+  ],
+  "color": "#10A37F"
+}

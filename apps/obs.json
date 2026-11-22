@@ -1,0 +1,22 @@
+{
+  "id": "obs",
+  "name": "OBS Studio",
+  "category": "editors",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Record and stream your screen and camera",
+  "description": "Record talking-head footage and screen demos to use as media scenes.",
+  "links": {
+    "Website": "https://obsproject.com",
+    "GitHub": "https://github.com/obsproject/obs-studio"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "recording",
+    "desktop"
+  ],
+  "color": "#302E31"
+}

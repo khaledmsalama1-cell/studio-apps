@@ -1,0 +1,21 @@
+{
+  "id": "supabase-skills",
+  "name": "Supabase skills",
+  "category": "skills",
+  "kind": "skill",
+  "pricing": "free",
+  "tagline": "Supabase best practices for agents",
+  "description": "Guidance for building on Supabase safely.",
+  "links": {
+    "GitHub": "https://github.com/supabase/agent-skills"
+  },
+  "integration": {
+    "type": "skills-repo",
+    "repo": "supabase/agent-skills"
+  },
+  "tags": [
+    "skills",
+    "database"
+  ],
+  "color": "#3ECF8E"
+}

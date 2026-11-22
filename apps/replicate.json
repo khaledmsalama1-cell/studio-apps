@@ -1,0 +1,36 @@
+{
+  "id": "replicate",
+  "name": "Replicate",
+  "category": "video-gen",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Run open models in the cloud",
+  "description": "Thousands of models through one API. Official MCP server.",
+  "links": {
+    "Website": "https://replicate.com",
+    "MCP": "https://mcp.replicate.com"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "replicate",
+    "config": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "replicate-mcp"
+      ],
+      "env": {
+        "REPLICATE_API_TOKEN": "${REPLICATE_API_TOKEN}"
+      }
+    },
+    "keys": [
+      "REPLICATE_API_TOKEN"
+    ]
+  },
+  "tags": [
+    "image",
+    "video",
+    "api"
+  ],
+  "color": "#E2513C"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "coverr",
+  "name": "Coverr",
+  "category": "stock",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Free stock video for creators",
+  "description": "Free b-roll clips, many vertical.",
+  "links": {
+    "Website": "https://coverr.co"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "stock",
+    "video"
+  ],
+  "color": "#1C1C1C"
+}

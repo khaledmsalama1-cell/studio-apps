@@ -1,0 +1,21 @@
+{
+  "id": "zapier",
+  "name": "Zapier",
+  "category": "automation",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Connect 7,000+ apps",
+  "description": "Automations and a personal MCP endpoint for agents.",
+  "links": {
+    "Website": "https://zapier.com",
+    "MCP": "https://zapier.com/mcp"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "automation",
+    "mcp"
+  ],
+  "color": "#FF4F00"
+}

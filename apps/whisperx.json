@@ -1,0 +1,21 @@
+{
+  "id": "whisperx",
+  "name": "WhisperX",
+  "category": "transcription",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "BSD-2",
+  "tagline": "Word-level timestamps and speakers",
+  "description": "Whisper with forced alignment and speaker diarization.",
+  "links": {
+    "GitHub": "https://github.com/m-bain/whisperX"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "asr",
+    "diarization"
+  ],
+  "color": "#1D4ED8"
+}

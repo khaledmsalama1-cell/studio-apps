@@ -1,0 +1,20 @@
+{
+  "id": "youtube-audio-library",
+  "name": "YouTube Audio Library",
+  "category": "music",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Free music for YouTube",
+  "description": "Free tracks and effects inside YouTube Studio; check attribution rules.",
+  "links": {
+    "Website": "https://studio.youtube.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "music",
+    "free"
+  ],
+  "color": "#FF0000"
+}

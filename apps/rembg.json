@@ -1,0 +1,21 @@
+{
+  "id": "rembg",
+  "name": "rembg",
+  "category": "image-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Remove image backgrounds",
+  "description": "Command-line and Python background removal for product shots.",
+  "links": {
+    "GitHub": "https://github.com/danielgatis/rembg"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "cutout",
+    "local"
+  ],
+  "color": "#0F172A"
+}

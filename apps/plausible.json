@@ -1,0 +1,22 @@
+{
+  "id": "plausible",
+  "name": "Plausible",
+  "category": "analytics",
+  "kind": "open-source",
+  "pricing": "paid",
+  "license": "AGPL",
+  "tagline": "Privacy-friendly web analytics",
+  "description": "Simple analytics for link-in-bio and landing pages; self-hostable.",
+  "links": {
+    "Website": "https://plausible.io",
+    "GitHub": "https://github.com/plausible/analytics"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "web",
+    "privacy"
+  ],
+  "color": "#5850EC"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "shotcut",
+  "name": "Shotcut",
+  "category": "editors",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Cross-platform video editor",
+  "description": "A free editor with wide format support and no import step.",
+  "links": {
+    "Website": "https://shotcut.org",
+    "GitHub": "https://github.com/mltframework/shotcut"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "desktop",
+    "editing"
+  ],
+  "color": "#2B7A0B"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "latentsync",
+  "name": "LatentSync",
+  "category": "avatars",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "High-quality open lip-sync",
+  "description": "ByteDance's diffusion-based lip-sync model.",
+  "links": {
+    "GitHub": "https://github.com/bytedance/LatentSync"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "lip-sync",
+    "local"
+  ],
+  "color": "#0EA5E9"
+}

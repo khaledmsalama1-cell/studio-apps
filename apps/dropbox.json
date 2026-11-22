@@ -1,0 +1,19 @@
+{
+  "id": "dropbox",
+  "name": "Dropbox",
+  "category": "storage",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "File sync for teams",
+  "description": "Sync a Dropbox folder and connect it to the Library.",
+  "links": {
+    "Website": "https://www.dropbox.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "storage"
+  ],
+  "color": "#0061FF"
+}

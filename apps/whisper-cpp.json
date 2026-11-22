@@ -1,0 +1,21 @@
+{
+  "id": "whisper-cpp",
+  "name": "whisper.cpp",
+  "category": "transcription",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Whisper in fast C/C++",
+  "description": "Runs Whisper efficiently on CPU and Apple Silicon.",
+  "links": {
+    "GitHub": "https://github.com/ggml-org/whisper.cpp"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "asr",
+    "local"
+  ],
+  "color": "#444444"
+}

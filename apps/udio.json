@@ -1,0 +1,20 @@
+{
+  "id": "udio",
+  "name": "Udio",
+  "category": "music",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "AI music generation",
+  "description": "Generate and extend tracks in many genres.",
+  "links": {
+    "Website": "https://www.udio.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "music",
+    "generation"
+  ],
+  "color": "#E11D48"
+}

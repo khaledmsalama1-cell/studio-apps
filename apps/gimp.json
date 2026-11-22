@@ -1,0 +1,21 @@
+{
+  "id": "gimp",
+  "name": "GIMP",
+  "category": "design",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Free image editor",
+  "description": "Photo retouching and image composition.",
+  "links": {
+    "Website": "https://www.gimp.org"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "photo",
+    "desktop"
+  ],
+  "color": "#5C5543"
+}

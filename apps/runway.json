@@ -1,0 +1,23 @@
+{
+  "id": "runway",
+  "name": "Runway",
+  "category": "video-gen",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Gen video models and editing tools",
+  "description": "Text and image to video, plus AI editing tools and an API.",
+  "links": {
+    "Website": "https://runwayml.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "RUNWAYML_API_SECRET"
+    ]
+  },
+  "tags": [
+    "video",
+    "api"
+  ],
+  "color": "#000000"
+}

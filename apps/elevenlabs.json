@@ -1,0 +1,31 @@
+{
+  "id": "elevenlabs",
+  "name": "ElevenLabs",
+  "category": "voice",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "The voices people can't tell from real",
+  "description": "Text to speech with timings, voice design and cloning, music and sound effects. Official hosted MCP server (sign in once); the API key powers the Studio's voiceover script.",
+  "links": {
+    "Website": "https://elevenlabs.io",
+    "MCP docs": "https://elevenlabs.io/docs/agents-platform/operate/hosted-mcp"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "elevenlabs",
+    "config": {
+      "type": "http",
+      "url": "https://api.elevenlabs.io/v1/mcp"
+    },
+    "keys": [
+      "ELEVENLABS_API_KEY"
+    ],
+    "oauth": true
+  },
+  "tags": [
+    "tts",
+    "cloning",
+    "music"
+  ],
+  "color": "#111111"
+}

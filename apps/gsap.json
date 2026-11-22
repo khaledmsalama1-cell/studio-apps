@@ -1,0 +1,21 @@
+{
+  "id": "gsap",
+  "name": "GSAP",
+  "category": "motion",
+  "kind": "open-source",
+  "pricing": "free",
+  "tagline": "The animation library HyperFrames uses",
+  "description": "Professional JavaScript animation library, free for all uses since 2025.",
+  "links": {
+    "Website": "https://gsap.com",
+    "GitHub": "https://github.com/greensock/GSAP"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "javascript",
+    "animation"
+  ],
+  "color": "#0AE448"
+}

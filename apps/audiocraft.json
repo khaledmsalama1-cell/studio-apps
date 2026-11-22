@@ -1,0 +1,22 @@
+{
+  "id": "audiocraft",
+  "name": "AudioCraft (MusicGen)",
+  "category": "music",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT (code)",
+  "tagline": "Meta's open music and audio models",
+  "description": "MusicGen and AudioGen for music and sound effects from text.",
+  "links": {
+    "GitHub": "https://github.com/facebookresearch/audiocraft"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "music",
+    "sfx",
+    "local"
+  ],
+  "color": "#0866FF"
+}

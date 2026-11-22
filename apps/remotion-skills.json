@@ -1,0 +1,22 @@
+{
+  "id": "remotion-skills",
+  "name": "Remotion skills",
+  "category": "skills",
+  "kind": "skill",
+  "pricing": "free",
+  "tagline": "Best practices for Remotion",
+  "description": "Remotion's official agent skills for creating and rendering.",
+  "links": {
+    "GitHub": "https://github.com/remotion-dev/skills",
+    "Docs": "https://www.remotion.dev/docs/ai/skills"
+  },
+  "integration": {
+    "type": "skills-repo",
+    "repo": "remotion-dev/skills"
+  },
+  "tags": [
+    "skills",
+    "video"
+  ],
+  "color": "#0B84F3"
+}

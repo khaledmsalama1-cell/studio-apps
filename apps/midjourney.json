@@ -1,0 +1,19 @@
+{
+  "id": "midjourney",
+  "name": "Midjourney",
+  "category": "image-gen",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Distinctive image generation",
+  "description": "Popular image model with strong aesthetics; web and Discord.",
+  "links": {
+    "Website": "https://www.midjourney.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "image"
+  ],
+  "color": "#000000"
+}

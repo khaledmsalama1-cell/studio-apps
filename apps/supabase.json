@@ -1,0 +1,29 @@
+{
+  "id": "supabase",
+  "name": "Supabase",
+  "category": "storage",
+  "kind": "open-source",
+  "pricing": "freemium",
+  "license": "Apache-2.0",
+  "tagline": "Postgres, storage and auth",
+  "description": "Store assets and content data; official hosted MCP server.",
+  "links": {
+    "Website": "https://supabase.com",
+    "MCP docs": "https://supabase.com/docs/guides/getting-started/mcp"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "supabase",
+    "config": {
+      "type": "http",
+      "url": "https://mcp.supabase.com/mcp"
+    },
+    "keys": [],
+    "oauth": true
+  },
+  "tags": [
+    "database",
+    "mcp"
+  ],
+  "color": "#3ECF8E"
+}

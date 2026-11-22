@@ -1,0 +1,21 @@
+{
+  "id": "gfpgan",
+  "name": "GFPGAN",
+  "category": "image-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Restore faces in photos",
+  "description": "Face restoration for old or low-quality photos.",
+  "links": {
+    "GitHub": "https://github.com/TencentARC/GFPGAN"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "restore",
+    "local"
+  ],
+  "color": "#B91C1C"
+}

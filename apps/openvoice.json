@@ -1,0 +1,21 @@
+{
+  "id": "openvoice",
+  "name": "OpenVoice",
+  "category": "voice-clone",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Instant voice cloning",
+  "description": "Clone a voice's tone color and speak in multiple languages.",
+  "links": {
+    "GitHub": "https://github.com/myshell-ai/OpenVoice"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "cloning",
+    "local"
+  ],
+  "color": "#0EA5E9"
+}

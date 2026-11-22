@@ -1,0 +1,21 @@
+{
+  "id": "canva",
+  "name": "Canva",
+  "category": "design",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Editable designs and brand kits",
+  "description": "Connect Canva in claude.ai to create, resize and export designs.",
+  "links": {
+    "Website": "https://www.canva.com",
+    "Connectors": "https://claude.ai/settings/connectors"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "design",
+    "brand"
+  ],
+  "color": "#00A3BF"
+}

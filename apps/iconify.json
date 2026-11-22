@@ -1,0 +1,19 @@
+{
+  "id": "iconify",
+  "name": "Iconify",
+  "category": "stock",
+  "kind": "open-source",
+  "pricing": "free",
+  "tagline": "200,000+ open icons in one place",
+  "description": "Unified access to many open icon sets.",
+  "links": {
+    "Website": "https://iconify.design"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "icons"
+  ],
+  "color": "#1769AA"
+}

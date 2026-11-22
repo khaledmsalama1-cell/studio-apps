@@ -1,0 +1,19 @@
+{
+  "id": "google-drive",
+  "name": "Google Drive",
+  "category": "storage",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Shared files and footage",
+  "description": "Sync a Drive folder locally and connect it as a Library folder.",
+  "links": {
+    "Website": "https://drive.google.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "storage"
+  ],
+  "color": "#1FA463"
+}

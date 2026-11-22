@@ -1,0 +1,21 @@
+{
+  "id": "yue",
+  "name": "YuE",
+  "category": "music",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Open full-song generation",
+  "description": "Generates songs with vocals from lyrics.",
+  "links": {
+    "GitHub": "https://github.com/multimodal-art-projection/YuE"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "music",
+    "local"
+  ],
+  "color": "#9333EA"
+}

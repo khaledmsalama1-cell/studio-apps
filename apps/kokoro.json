@@ -1,0 +1,22 @@
+{
+  "id": "kokoro",
+  "name": "Kokoro",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Small, fast, free local TTS",
+  "description": "An 82M-parameter model with natural English voices that runs on a laptop.",
+  "links": {
+    "Model": "https://huggingface.co/hexgrad/Kokoro-82M",
+    "GitHub": "https://github.com/hexgrad/kokoro"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "local"
+  ],
+  "color": "#E86A33"
+}

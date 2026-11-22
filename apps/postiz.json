@@ -1,0 +1,34 @@
+{
+  "id": "postiz",
+  "name": "Postiz",
+  "category": "publishing",
+  "kind": "open-source",
+  "pricing": "freemium",
+  "license": "AGPL-3.0",
+  "tagline": "Schedule posts to 20+ networks",
+  "description": "Open-source scheduler with an official MCP server; cloud or self-hosted.",
+  "links": {
+    "Website": "https://postiz.com",
+    "GitHub": "https://github.com/gitroomhq/postiz-app",
+    "MCP docs": "https://docs.postiz.com/mcp/introduction"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "postiz",
+    "config": {
+      "type": "http",
+      "url": "https://api.postiz.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${POSTIZ_API_KEY}"
+      }
+    },
+    "keys": [
+      "POSTIZ_API_KEY"
+    ]
+  },
+  "tags": [
+    "scheduling",
+    "mcp"
+  ],
+  "color": "#612AD5"
+}

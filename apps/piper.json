@@ -1,0 +1,22 @@
+{
+  "id": "piper",
+  "name": "Piper",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL-3.0",
+  "tagline": "Fast offline TTS for many languages",
+  "description": "Lightweight neural TTS that runs on CPU, with voices in dozens of languages.",
+  "links": {
+    "GitHub": "https://github.com/OHF-Voice/piper1-gpl"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "local",
+    "multilingual"
+  ],
+  "color": "#3A7D44"
+}

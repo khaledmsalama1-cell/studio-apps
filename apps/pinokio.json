@@ -1,0 +1,22 @@
+{
+  "id": "pinokio",
+  "name": "Pinokio",
+  "category": "local-ai",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "One-click local AI apps",
+  "description": "Install and run local AI tools; connect their output folders.",
+  "links": {
+    "Website": "https://pinokio.co",
+    "GitHub": "https://github.com/pinokiocomputer/pinokio"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "launcher",
+    "local"
+  ],
+  "color": "#3F3F46"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "heygen",
+  "name": "HeyGen",
+  "category": "avatars",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "AI avatars that present for you",
+  "description": "Avatar videos and translation; official MCP server with browser sign-in.",
+  "links": {
+    "Website": "https://www.heygen.com",
+    "MCP docs": "https://developers.heygen.com/mcp/claude-code"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "heygen",
+    "config": {
+      "type": "http",
+      "url": "https://mcp.heygen.com/mcp/v1/"
+    },
+    "keys": [],
+    "oauth": true
+  },
+  "tags": [
+    "avatar",
+    "video"
+  ],
+  "color": "#1F6FEB"
+}

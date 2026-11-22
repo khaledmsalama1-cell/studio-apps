@@ -1,0 +1,22 @@
+{
+  "id": "f5-tts",
+  "name": "F5-TTS",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT (code)",
+  "tagline": "Zero-shot voice cloning TTS",
+  "description": "Research TTS that clones a voice from a short reference clip.",
+  "links": {
+    "GitHub": "https://github.com/SWivid/F5-TTS"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "cloning",
+    "local"
+  ],
+  "color": "#7B3FE4"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "freesound",
+  "name": "Freesound",
+  "category": "music",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Creative Commons sound effects",
+  "description": "Huge library of user-uploaded sounds; check each license.",
+  "links": {
+    "Website": "https://freesound.org"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "FREESOUND_API_KEY"
+    ]
+  },
+  "tags": [
+    "sfx",
+    "stock"
+  ],
+  "color": "#E52E2E"
+}

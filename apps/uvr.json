@@ -1,0 +1,21 @@
+{
+  "id": "uvr",
+  "name": "Ultimate Vocal Remover",
+  "category": "audio-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Vocal removal desktop app",
+  "description": "GUI for vocal and instrument separation models.",
+  "links": {
+    "GitHub": "https://github.com/Anjok07/ultimatevocalremovergui"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "separation",
+    "desktop"
+  ],
+  "color": "#DC2626"
+}

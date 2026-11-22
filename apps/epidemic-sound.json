@@ -1,0 +1,20 @@
+{
+  "id": "epidemic-sound",
+  "name": "Epidemic Sound",
+  "category": "music",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Licensed music for social",
+  "description": "Subscription library cleared for social platforms.",
+  "links": {
+    "Website": "https://www.epidemicsound.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "music",
+    "stock"
+  ],
+  "color": "#111111"
+}

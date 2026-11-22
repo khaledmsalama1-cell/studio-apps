@@ -1,0 +1,23 @@
+{
+  "id": "luma",
+  "name": "Luma Dream Machine",
+  "category": "video-gen",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Cinematic video from text and images",
+  "description": "Video generation with camera control; API available.",
+  "links": {
+    "Website": "https://lumalabs.ai"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "LUMAAI_API_KEY"
+    ]
+  },
+  "tags": [
+    "video",
+    "api"
+  ],
+  "color": "#1A1A1A"
+}

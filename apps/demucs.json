@@ -1,0 +1,21 @@
+{
+  "id": "demucs",
+  "name": "Demucs",
+  "category": "audio-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Separate vocals, drums and bass",
+  "description": "Music source separation; pull a clean voice out of a noisy clip.",
+  "links": {
+    "GitHub": "https://github.com/adefossez/demucs"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "separation",
+    "local"
+  ],
+  "color": "#0866FF"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "auto-editor",
+  "name": "auto-editor",
+  "category": "editors",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Unlicense",
+  "tagline": "Cut silences automatically",
+  "description": "Command-line tool that removes dead air from talking-head footage.",
+  "links": {
+    "GitHub": "https://github.com/WyattBlue/auto-editor"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "cli",
+    "editing"
+  ],
+  "color": "#3B3B98"
+}

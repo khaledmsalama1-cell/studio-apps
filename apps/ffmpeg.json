@@ -1,0 +1,22 @@
+{
+  "id": "ffmpeg",
+  "name": "FFmpeg",
+  "category": "video-engines",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "LGPL/GPL",
+  "tagline": "The video toolbox under everything",
+  "description": "Convert, cut, crop, resize and mix audio and video from the command line.",
+  "links": {
+    "Website": "https://ffmpeg.org"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "cli",
+    "video",
+    "audio"
+  ],
+  "color": "#2C8C3C"
+}

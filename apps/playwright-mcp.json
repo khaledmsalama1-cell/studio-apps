@@ -1,0 +1,30 @@
+{
+  "id": "playwright-mcp",
+  "name": "Playwright MCP",
+  "category": "research",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Let Claude drive a browser",
+  "description": "Microsoft's MCP server for browser automation.",
+  "links": {
+    "GitHub": "https://github.com/microsoft/playwright-mcp"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "playwright",
+    "config": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@latest"
+      ]
+    },
+    "keys": []
+  },
+  "tags": [
+    "browser",
+    "mcp"
+  ],
+  "color": "#2EAD33"
+}

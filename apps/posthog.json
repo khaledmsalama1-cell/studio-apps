@@ -1,0 +1,22 @@
+{
+  "id": "posthog",
+  "name": "PostHog",
+  "category": "analytics",
+  "kind": "open-source",
+  "pricing": "freemium",
+  "license": "MIT",
+  "tagline": "Product analytics and more",
+  "description": "Events, funnels, session replay and experiments.",
+  "links": {
+    "Website": "https://posthog.com",
+    "GitHub": "https://github.com/PostHog/posthog"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "product",
+    "web"
+  ],
+  "color": "#F54E00"
+}

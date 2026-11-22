@@ -1,0 +1,25 @@
+{
+  "id": "pixabay",
+  "name": "Pixabay",
+  "category": "stock",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Free images, video and music",
+  "description": "Royalty-free media with an API.",
+  "links": {
+    "Website": "https://pixabay.com",
+    "API": "https://pixabay.com/api/docs/"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "PIXABAY_API_KEY"
+    ]
+  },
+  "tags": [
+    "stock",
+    "video",
+    "music"
+  ],
+  "color": "#2EC66D"
+}

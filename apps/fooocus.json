@@ -1,0 +1,21 @@
+{
+  "id": "fooocus",
+  "name": "Fooocus",
+  "category": "image-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Prompt-first image generation",
+  "description": "Simple local image generation with good defaults.",
+  "links": {
+    "GitHub": "https://github.com/lllyasviel/Fooocus"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "image",
+    "local"
+  ],
+  "color": "#22C55E"
+}

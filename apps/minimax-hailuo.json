@@ -1,0 +1,19 @@
+{
+  "id": "minimax-hailuo",
+  "name": "MiniMax Hailuo",
+  "category": "video-gen",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Video generation with strong motion",
+  "description": "Hailuo video models from MiniMax.",
+  "links": {
+    "Website": "https://hailuoai.video"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "video"
+  ],
+  "color": "#E63946"
+}

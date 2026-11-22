@@ -1,0 +1,35 @@
+{
+  "id": "firecrawl",
+  "name": "Firecrawl",
+  "category": "research",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Turn websites into clean data",
+  "description": "Crawl and scrape sites into markdown for brand research. MCP server.",
+  "links": {
+    "Website": "https://www.firecrawl.dev",
+    "GitHub": "https://github.com/firecrawl/firecrawl-mcp-server"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "firecrawl",
+    "config": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "firecrawl-mcp"
+      ],
+      "env": {
+        "FIRECRAWL_API_KEY": "${FIRECRAWL_API_KEY}"
+      }
+    },
+    "keys": [
+      "FIRECRAWL_API_KEY"
+    ]
+  },
+  "tags": [
+    "scraping",
+    "web"
+  ],
+  "color": "#FF6B00"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "faster-whisper",
+  "name": "faster-whisper",
+  "category": "transcription",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Up to 4x faster Whisper",
+  "description": "CTranslate2 reimplementation of Whisper with word timestamps.",
+  "links": {
+    "GitHub": "https://github.com/SYSTRAN/faster-whisper"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "asr",
+    "python"
+  ],
+  "color": "#2563EB"
+}

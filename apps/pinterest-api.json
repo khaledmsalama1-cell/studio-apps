@@ -1,0 +1,19 @@
+{
+  "id": "pinterest-api",
+  "name": "Pinterest API",
+  "category": "social-apis",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Create pins and read analytics",
+  "description": "Official API for pins, boards and analytics.",
+  "links": {
+    "Docs": "https://developers.pinterest.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "pinterest"
+  ],
+  "color": "#E60023"
+}

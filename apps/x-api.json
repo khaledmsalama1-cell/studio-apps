@@ -1,0 +1,23 @@
+{
+  "id": "x-api",
+  "name": "X API",
+  "category": "social-apis",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Post and search on X",
+  "description": "Official API for X (Twitter), tiered pricing.",
+  "links": {
+    "Docs": "https://developer.x.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "X_BEARER_TOKEN"
+    ]
+  },
+  "tags": [
+    "x",
+    "twitter"
+  ],
+  "color": "#000000"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "adobe-podcast",
+  "name": "Adobe Podcast Enhance",
+  "category": "audio-tools",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Make any recording sound studio-made",
+  "description": "Web tool that removes noise and echo from speech.",
+  "links": {
+    "Website": "https://podcast.adobe.com/enhance"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "cleanup",
+    "speech"
+  ],
+  "color": "#EB1000"
+}

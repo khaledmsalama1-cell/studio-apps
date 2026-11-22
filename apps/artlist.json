@@ -1,0 +1,20 @@
+{
+  "id": "artlist",
+  "name": "Artlist",
+  "category": "music",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Music, SFX and footage license",
+  "description": "Royalty-free music, sound effects and stock footage.",
+  "links": {
+    "Website": "https://artlist.io"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "music",
+    "stock"
+  ],
+  "color": "#FFCD00"
+}

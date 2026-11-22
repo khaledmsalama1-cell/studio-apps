@@ -1,0 +1,28 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "category": "storage",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Briefs, calendars and docs",
+  "description": "Official hosted MCP server so Claude can read briefs and write calendars.",
+  "links": {
+    "Website": "https://www.notion.so",
+    "MCP docs": "https://developers.notion.com/docs/mcp"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "notion",
+    "config": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "keys": [],
+    "oauth": true
+  },
+  "tags": [
+    "docs",
+    "mcp"
+  ],
+  "color": "#000000"
+}

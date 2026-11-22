@@ -1,0 +1,21 @@
+{
+  "id": "wan",
+  "name": "Wan",
+  "category": "video-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Open video generation models",
+  "description": "Alibaba's open text-to-video and image-to-video models.",
+  "links": {
+    "GitHub": "https://github.com/Wan-Video/Wan2.1"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "video",
+    "local"
+  ],
+  "color": "#FF6A00"
+}

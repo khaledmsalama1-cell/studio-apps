@@ -1,0 +1,19 @@
+{
+  "id": "google-fonts",
+  "name": "Google Fonts",
+  "category": "stock",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Open fonts the studio already uses",
+  "description": "Every brand font in the studio loads from Google Fonts.",
+  "links": {
+    "Website": "https://fonts.google.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "fonts"
+  ],
+  "color": "#4285F4"
+}

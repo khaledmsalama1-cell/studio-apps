@@ -1,0 +1,22 @@
+{
+  "id": "openshot",
+  "name": "OpenShot",
+  "category": "editors",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Simple video editor",
+  "description": "Beginner-friendly editor with titles, transitions and keyframes.",
+  "links": {
+    "Website": "https://www.openshot.org",
+    "GitHub": "https://github.com/OpenShot/openshot-qt"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "desktop",
+    "editing"
+  ],
+  "color": "#C0392B"
+}

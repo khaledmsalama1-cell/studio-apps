@@ -1,0 +1,23 @@
+{
+  "id": "cartesia",
+  "name": "Cartesia",
+  "category": "voice",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Ultra-low-latency voice API",
+  "description": "Fast, expressive TTS API with voice cloning.",
+  "links": {
+    "Website": "https://cartesia.ai"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "CARTESIA_API_KEY"
+    ]
+  },
+  "tags": [
+    "tts",
+    "api"
+  ],
+  "color": "#2D2D2D"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "parakeet",
+  "name": "NVIDIA Parakeet",
+  "category": "transcription",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Fast, accurate English ASR",
+  "description": "NVIDIA NeMo speech models; HyperFrames can use Parakeet for captions.",
+  "links": {
+    "GitHub": "https://github.com/NVIDIA/NeMo"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "asr",
+    "local"
+  ],
+  "color": "#76B900"
+}

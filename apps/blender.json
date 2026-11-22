@@ -1,0 +1,21 @@
+{
+  "id": "blender",
+  "name": "Blender",
+  "category": "video-engines",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "3D, motion graphics and video editing",
+  "description": "Free 3D suite with a video sequencer; scriptable with Python for product renders.",
+  "links": {
+    "Website": "https://www.blender.org"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "3d",
+    "desktop"
+  ],
+  "color": "#E87D0D"
+}

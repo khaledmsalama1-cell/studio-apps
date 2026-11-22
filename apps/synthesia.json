@@ -1,0 +1,20 @@
+{
+  "id": "synthesia",
+  "name": "Synthesia",
+  "category": "avatars",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Avatar videos for business",
+  "description": "Studio-quality AI presenters in 140+ languages.",
+  "links": {
+    "Website": "https://www.synthesia.io"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "avatar",
+    "video"
+  ],
+  "color": "#2F1C6A"
+}

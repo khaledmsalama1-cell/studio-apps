@@ -1,0 +1,21 @@
+{
+  "id": "coqui-tts",
+  "name": "Coqui TTS",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MPL-2.0",
+  "tagline": "Toolkit with XTTS and many models",
+  "description": "Python toolkit for training and running TTS models, including XTTS v2.",
+  "links": {
+    "GitHub": "https://github.com/coqui-ai/TTS"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "local"
+  ],
+  "color": "#4B9CD3"
+}

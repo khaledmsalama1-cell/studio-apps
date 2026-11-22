@@ -1,0 +1,23 @@
+{
+  "id": "manim",
+  "name": "Manim",
+  "category": "video-engines",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Math and diagram animations in Python",
+  "description": "The community edition of the animation engine behind explainer channels like 3Blue1Brown.",
+  "links": {
+    "Website": "https://www.manim.community",
+    "GitHub": "https://github.com/ManimCommunity/manim"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "animation",
+    "python",
+    "explainer"
+  ],
+  "color": "#2A6F97"
+}

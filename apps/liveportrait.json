@@ -1,0 +1,21 @@
+{
+  "id": "liveportrait",
+  "name": "LivePortrait",
+  "category": "avatars",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Animate a portrait from a driving video",
+  "description": "Efficient open portrait animation.",
+  "links": {
+    "GitHub": "https://github.com/KwaiVGI/LivePortrait"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "avatar",
+    "local"
+  ],
+  "color": "#EC4899"
+}

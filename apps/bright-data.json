@@ -1,0 +1,22 @@
+{
+  "id": "bright-data",
+  "name": "Bright Data",
+  "category": "research",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Web data at scale",
+  "description": "Proxies and ready datasets for social and e-commerce research.",
+  "links": {
+    "Website": "https://brightdata.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "BRIGHTDATA_API_TOKEN"
+    ]
+  },
+  "tags": [
+    "scraping"
+  ],
+  "color": "#3D7FFC"
+}

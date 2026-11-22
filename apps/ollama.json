@@ -1,0 +1,22 @@
+{
+  "id": "ollama",
+  "name": "Ollama",
+  "category": "local-ai",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Run open LLMs locally",
+  "description": "Local language models for drafting captions offline.",
+  "links": {
+    "Website": "https://ollama.com",
+    "GitHub": "https://github.com/ollama/ollama"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "llm",
+    "local"
+  ],
+  "color": "#000000"
+}

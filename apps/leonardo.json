@@ -1,0 +1,23 @@
+{
+  "id": "leonardo",
+  "name": "Leonardo.Ai",
+  "category": "image-gen",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Image and video generation suite",
+  "description": "Image models, canvas editing and motion for creators.",
+  "links": {
+    "Website": "https://leonardo.ai"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "LEONARDO_API_KEY"
+    ]
+  },
+  "tags": [
+    "image",
+    "video"
+  ],
+  "color": "#6B21A8"
+}

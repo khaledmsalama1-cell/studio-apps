@@ -1,0 +1,25 @@
+{
+  "id": "shopify",
+  "name": "Shopify",
+  "category": "storage",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Product catalog for promos",
+  "description": "Pull products, prices and photos into product promos.",
+  "links": {
+    "Website": "https://www.shopify.com",
+    "Docs": "https://shopify.dev"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "SHOPIFY_STORE_DOMAIN",
+      "SHOPIFY_ACCESS_TOKEN"
+    ]
+  },
+  "tags": [
+    "ecommerce",
+    "products"
+  ],
+  "color": "#95BF47"
+}

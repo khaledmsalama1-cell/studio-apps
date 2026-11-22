@@ -1,0 +1,21 @@
+{
+  "id": "stable-audio-open",
+  "name": "Stable Audio Open",
+  "category": "music",
+  "kind": "open-source",
+  "pricing": "free",
+  "tagline": "Open text-to-audio model",
+  "description": "Stability AI's model for sound effects and short music clips.",
+  "links": {
+    "GitHub": "https://github.com/Stability-AI/stable-audio-tools"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "sfx",
+    "music",
+    "local"
+  ],
+  "color": "#7C3AED"
+}

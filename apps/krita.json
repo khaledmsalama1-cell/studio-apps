@@ -1,0 +1,21 @@
+{
+  "id": "krita",
+  "name": "Krita",
+  "category": "design",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Painting and illustration",
+  "description": "Digital painting for illustrated content.",
+  "links": {
+    "Website": "https://krita.org"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "illustration",
+    "desktop"
+  ],
+  "color": "#3BABFF"
+}

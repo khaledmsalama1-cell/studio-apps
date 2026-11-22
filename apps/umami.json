@@ -1,0 +1,22 @@
+{
+  "id": "umami",
+  "name": "Umami",
+  "category": "analytics",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Self-hosted website analytics",
+  "description": "Lightweight, privacy-focused analytics.",
+  "links": {
+    "Website": "https://umami.is",
+    "GitHub": "https://github.com/umami-software/umami"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "web",
+    "self-hosted"
+  ],
+  "color": "#000000"
+}

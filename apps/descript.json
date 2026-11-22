@@ -1,0 +1,20 @@
+{
+  "id": "descript",
+  "name": "Descript",
+  "category": "editors",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Edit video by editing the transcript",
+  "description": "Text-based editing, filler-word removal, overdub and studio sound.",
+  "links": {
+    "Website": "https://www.descript.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "editing",
+    "podcast"
+  ],
+  "color": "#1C1C1C"
+}

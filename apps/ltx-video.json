@@ -1,0 +1,20 @@
+{
+  "id": "ltx-video",
+  "name": "LTX-Video",
+  "category": "video-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "tagline": "Fast open video generation",
+  "description": "Lightricks' real-time-capable open video model.",
+  "links": {
+    "GitHub": "https://github.com/Lightricks/LTX-Video"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "video",
+    "local"
+  ],
+  "color": "#2D2D2D"
+}

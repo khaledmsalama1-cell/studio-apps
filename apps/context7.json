@@ -1,0 +1,27 @@
+{
+  "id": "context7",
+  "name": "Context7",
+  "category": "mcp",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Up-to-date library docs for Claude",
+  "description": "Fetches current documentation for libraries like Remotion and GSAP.",
+  "links": {
+    "Website": "https://context7.com",
+    "GitHub": "https://github.com/upstash/context7"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "context7",
+    "config": {
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp"
+    },
+    "keys": []
+  },
+  "tags": [
+    "docs",
+    "mcp"
+  ],
+  "color": "#059669"
+}

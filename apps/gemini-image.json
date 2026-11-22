@@ -1,0 +1,23 @@
+{
+  "id": "gemini-image",
+  "name": "Gemini image (Imagen)",
+  "category": "image-gen",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Google's image generation and editing",
+  "description": "Image generation and conversational editing through the Gemini API.",
+  "links": {
+    "Docs": "https://ai.google.dev/gemini-api/docs/image-generation"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "GEMINI_API_KEY"
+    ]
+  },
+  "tags": [
+    "image",
+    "api"
+  ],
+  "color": "#4285F4"
+}

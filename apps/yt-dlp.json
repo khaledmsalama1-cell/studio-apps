@@ -1,0 +1,21 @@
+{
+  "id": "yt-dlp",
+  "name": "yt-dlp",
+  "category": "research",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Unlicense",
+  "tagline": "Pull public posts from TikTok and YouTube",
+  "description": "The free scraper behind the Research page.",
+  "links": {
+    "GitHub": "https://github.com/yt-dlp/yt-dlp"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "scraping",
+    "cli"
+  ],
+  "color": "#B91C1C"
+}

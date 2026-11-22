@@ -1,0 +1,19 @@
+{
+  "id": "skills-sh",
+  "name": "skills.sh",
+  "category": "skills",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Directory of agent skills",
+  "description": "Browse community skills, then add any repo here.",
+  "links": {
+    "Website": "https://skills.sh"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "directory"
+  ],
+  "color": "#111111"
+}

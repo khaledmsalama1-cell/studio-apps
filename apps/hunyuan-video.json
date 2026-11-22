@@ -1,0 +1,20 @@
+{
+  "id": "hunyuan-video",
+  "name": "HunyuanVideo",
+  "category": "video-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "tagline": "Tencent's open video model",
+  "description": "Large open-weights text-to-video model.",
+  "links": {
+    "GitHub": "https://github.com/Tencent/HunyuanVideo"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "video",
+    "local"
+  ],
+  "color": "#0052D9"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tiktok-api",
+  "name": "TikTok for Developers",
+  "category": "social-apis",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Official TikTok APIs",
+  "description": "Display, Content Posting and Research APIs (approval required).",
+  "links": {
+    "Docs": "https://developers.tiktok.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "TIKTOK_CLIENT_KEY",
+      "TIKTOK_CLIENT_SECRET"
+    ]
+  },
+  "tags": [
+    "tiktok"
+  ],
+  "color": "#000000"
+}

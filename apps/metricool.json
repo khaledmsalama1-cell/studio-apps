@@ -1,0 +1,20 @@
+{
+  "id": "metricool",
+  "name": "Metricool",
+  "category": "publishing",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Plan, publish and analyze",
+  "description": "Scheduling with analytics and competitor tracking.",
+  "links": {
+    "Website": "https://metricool.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "scheduling",
+    "analytics"
+  ],
+  "color": "#3E68F5"
+}

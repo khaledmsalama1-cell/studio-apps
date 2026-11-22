@@ -1,0 +1,22 @@
+{
+  "id": "superpowers",
+  "name": "Superpowers",
+  "category": "skills",
+  "kind": "skill",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "A core skills library for Claude Code",
+  "description": "Planning, debugging and TDD workflows as skills.",
+  "links": {
+    "GitHub": "https://github.com/obra/superpowers"
+  },
+  "integration": {
+    "type": "skills-repo",
+    "repo": "obra/superpowers"
+  },
+  "tags": [
+    "skills",
+    "workflow"
+  ],
+  "color": "#7C3AED"
+}

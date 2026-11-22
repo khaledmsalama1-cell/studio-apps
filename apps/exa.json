@@ -1,0 +1,27 @@
+{
+  "id": "exa",
+  "name": "Exa",
+  "category": "research",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Search engine built for AI",
+  "description": "Find competitors, articles and trends. Hosted MCP server.",
+  "links": {
+    "Website": "https://exa.ai",
+    "MCP docs": "https://docs.exa.ai/reference/exa-mcp"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "exa",
+    "config": {
+      "type": "http",
+      "url": "https://mcp.exa.ai/mcp"
+    },
+    "keys": []
+  },
+  "tags": [
+    "search",
+    "web"
+  ],
+  "color": "#1E40AF"
+}

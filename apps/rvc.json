@@ -1,0 +1,21 @@
+{
+  "id": "rvc",
+  "name": "RVC",
+  "category": "voice-clone",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Retrieval-based voice conversion",
+  "description": "Train a voice model and convert recordings into that voice.",
+  "links": {
+    "GitHub": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "conversion",
+    "local"
+  ],
+  "color": "#7C3AED"
+}

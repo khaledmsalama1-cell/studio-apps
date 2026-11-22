@@ -1,0 +1,94 @@
+[
+  [
+    "video-engines",
+    "Video engines"
+  ],
+  [
+    "editors",
+    "Video editors"
+  ],
+  [
+    "motion",
+    "Motion & animation"
+  ],
+  [
+    "voice",
+    "Voice & TTS"
+  ],
+  [
+    "voice-clone",
+    "Voice cloning & conversion"
+  ],
+  [
+    "transcription",
+    "Transcription"
+  ],
+  [
+    "music",
+    "Music & sound"
+  ],
+  [
+    "audio-tools",
+    "Audio cleanup"
+  ],
+  [
+    "image-gen",
+    "Image generation"
+  ],
+  [
+    "video-gen",
+    "Video generation"
+  ],
+  [
+    "avatars",
+    "Avatars & lip-sync"
+  ],
+  [
+    "image-tools",
+    "Upscaling & cutouts"
+  ],
+  [
+    "design",
+    "Design"
+  ],
+  [
+    "stock",
+    "Stock media & fonts"
+  ],
+  [
+    "research",
+    "Research & scraping"
+  ],
+  [
+    "social-apis",
+    "Social platform APIs"
+  ],
+  [
+    "publishing",
+    "Publishing & scheduling"
+  ],
+  [
+    "analytics",
+    "Analytics"
+  ],
+  [
+    "automation",
+    "Automation"
+  ],
+  [
+    "storage",
+    "Storage & workspace"
+  ],
+  [
+    "skills",
+    "Claude skills"
+  ],
+  [
+    "mcp",
+    "MCP connectors"
+  ],
+  [
+    "local-ai",
+    "Local AI"
+  ]
+]

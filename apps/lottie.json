@@ -1,0 +1,22 @@
+{
+  "id": "lottie",
+  "name": "Lottie",
+  "category": "motion",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Lightweight vector animations",
+  "description": "Render After Effects animations exported as JSON on web and mobile.",
+  "links": {
+    "Website": "https://airbnb.io/lottie",
+    "GitHub": "https://github.com/airbnb/lottie-web"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "animation",
+    "vector"
+  ],
+  "color": "#00DDB3"
+}

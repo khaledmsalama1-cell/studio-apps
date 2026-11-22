@@ -1,0 +1,22 @@
+{
+  "id": "activepieces",
+  "name": "Activepieces",
+  "category": "automation",
+  "kind": "open-source",
+  "pricing": "freemium",
+  "license": "MIT",
+  "tagline": "Open automation with an MCP hub",
+  "description": "Automations and hundreds of integrations exposed to agents.",
+  "links": {
+    "Website": "https://www.activepieces.com",
+    "GitHub": "https://github.com/activepieces/activepieces"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "automation",
+    "mcp"
+  ],
+  "color": "#6E41E2"
+}

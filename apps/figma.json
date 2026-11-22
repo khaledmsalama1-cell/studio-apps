@@ -1,0 +1,28 @@
+{
+  "id": "figma",
+  "name": "Figma",
+  "category": "design",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Design files Claude can read",
+  "description": "Figma's MCP server lets Claude read frames, styles and assets.",
+  "links": {
+    "Website": "https://www.figma.com",
+    "MCP docs": "https://developers.figma.com/docs/figma-mcp-server/"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "figma",
+    "config": {
+      "type": "http",
+      "url": "https://mcp.figma.com/mcp"
+    },
+    "keys": [],
+    "oauth": true
+  },
+  "tags": [
+    "design",
+    "mcp"
+  ],
+  "color": "#A259FF"
+}

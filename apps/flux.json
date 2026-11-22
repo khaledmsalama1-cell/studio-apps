@@ -1,0 +1,22 @@
+{
+  "id": "flux",
+  "name": "FLUX",
+  "category": "image-gen",
+  "kind": "open-source",
+  "pricing": "freemium",
+  "tagline": "State-of-the-art image models",
+  "description": "Black Forest Labs' image models; open weights for dev/schnell and an API.",
+  "links": {
+    "Website": "https://bfl.ai",
+    "GitHub": "https://github.com/black-forest-labs/flux"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "image",
+    "local",
+    "api"
+  ],
+  "color": "#111111"
+}

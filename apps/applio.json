@@ -1,0 +1,22 @@
+{
+  "id": "applio",
+  "name": "Applio",
+  "category": "voice-clone",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Friendly voice conversion app",
+  "description": "A polished RVC-based app for training and converting voices.",
+  "links": {
+    "Website": "https://applio.org",
+    "GitHub": "https://github.com/IAHispano/Applio"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "conversion",
+    "desktop"
+  ],
+  "color": "#16A34A"
+}

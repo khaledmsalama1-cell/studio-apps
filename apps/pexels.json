@@ -1,0 +1,25 @@
+{
+  "id": "pexels",
+  "name": "Pexels",
+  "category": "stock",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Free stock photos and videos",
+  "description": "High-quality free photos and b-roll with an API.",
+  "links": {
+    "Website": "https://www.pexels.com",
+    "API": "https://www.pexels.com/api/"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "PEXELS_API_KEY"
+    ]
+  },
+  "tags": [
+    "stock",
+    "video",
+    "photo"
+  ],
+  "color": "#05A081"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vercel-agent-skills",
+  "name": "Vercel agent skills",
+  "category": "skills",
+  "kind": "skill",
+  "pricing": "free",
+  "tagline": "Web and React best practices",
+  "description": "Vercel's skills for React, Next.js and web design reviews.",
+  "links": {
+    "GitHub": "https://github.com/vercel-labs/agent-skills"
+  },
+  "integration": {
+    "type": "skills-repo",
+    "repo": "vercel-labs/agent-skills"
+  },
+  "tags": [
+    "skills",
+    "web"
+  ],
+  "color": "#000000"
+}

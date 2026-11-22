@@ -1,0 +1,23 @@
+{
+  "id": "assemblyai",
+  "name": "AssemblyAI",
+  "category": "transcription",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Speech AI models via API",
+  "description": "Transcription with speaker labels, summaries and chapters.",
+  "links": {
+    "Website": "https://www.assemblyai.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "ASSEMBLYAI_API_KEY"
+    ]
+  },
+  "tags": [
+    "asr",
+    "api"
+  ],
+  "color": "#2545D3"
+}

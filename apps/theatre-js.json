@@ -1,0 +1,22 @@
+{
+  "id": "theatre-js",
+  "name": "Theatre.js",
+  "category": "motion",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Motion design editor for the web",
+  "description": "A timeline editor for animating web and Three.js scenes in the browser.",
+  "links": {
+    "Website": "https://www.theatrejs.com",
+    "GitHub": "https://github.com/theatre-js/theatre"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "animation",
+    "3d"
+  ],
+  "color": "#E2475C"
+}

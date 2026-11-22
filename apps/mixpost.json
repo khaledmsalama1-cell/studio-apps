@@ -1,0 +1,22 @@
+{
+  "id": "mixpost",
+  "name": "Mixpost",
+  "category": "publishing",
+  "kind": "open-source",
+  "pricing": "freemium",
+  "license": "MIT",
+  "tagline": "Self-hosted social media management",
+  "description": "Schedule and analyze posts on your own server.",
+  "links": {
+    "Website": "https://mixpost.app",
+    "GitHub": "https://github.com/inovector/mixpost"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "scheduling",
+    "self-hosted"
+  ],
+  "color": "#4F46E5"
+}

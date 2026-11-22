@@ -1,0 +1,20 @@
+{
+  "id": "hootsuite",
+  "name": "Hootsuite",
+  "category": "publishing",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Social management for teams",
+  "description": "Publishing, inbox and reporting for many accounts.",
+  "links": {
+    "Website": "https://www.hootsuite.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "scheduling",
+    "teams"
+  ],
+  "color": "#143059"
+}

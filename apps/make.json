@@ -1,0 +1,19 @@
+{
+  "id": "make",
+  "name": "Make",
+  "category": "automation",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Visual automation scenarios",
+  "description": "Build multi-step automations visually.",
+  "links": {
+    "Website": "https://www.make.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "automation"
+  ],
+  "color": "#6D00CC"
+}

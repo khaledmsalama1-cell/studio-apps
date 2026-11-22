@@ -1,0 +1,20 @@
+{
+  "id": "photopea",
+  "name": "Photopea",
+  "category": "design",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Photoshop-like editor in the browser",
+  "description": "Edit PSD, XCF and Sketch files online.",
+  "links": {
+    "Website": "https://www.photopea.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "photo",
+    "editing"
+  ],
+  "color": "#18A497"
+}

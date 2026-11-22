@@ -1,0 +1,21 @@
+{
+  "id": "sadtalker",
+  "name": "SadTalker",
+  "category": "avatars",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Talking head from one image and audio",
+  "description": "Generates a talking-head video from a photo and a voiceover.",
+  "links": {
+    "GitHub": "https://github.com/OpenTalker/SadTalker"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "avatar",
+    "local"
+  ],
+  "color": "#8B5CF6"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fal",
+  "name": "fal",
+  "category": "video-gen",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "1,000+ image, video and audio models",
+  "description": "One API for Flux, Veo, Kling and more. Official MCP server.",
+  "links": {
+    "Website": "https://fal.ai",
+    "MCP docs": "https://fal.ai/docs/documentation/setting-up/mcp"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "fal",
+    "config": {
+      "type": "http",
+      "url": "https://mcp.fal.ai/mcp",
+      "headers": {
+        "Authorization": "Bearer ${FAL_KEY}"
+      }
+    },
+    "keys": [
+      "FAL_KEY"
+    ]
+  },
+  "tags": [
+    "image",
+    "video",
+    "api"
+  ],
+  "color": "#7A3CE0"
+}

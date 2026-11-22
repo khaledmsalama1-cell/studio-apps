@@ -1,0 +1,21 @@
+{
+  "id": "dia",
+  "name": "Dia",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Realistic two-speaker dialogue",
+  "description": "Generates natural dialogue between speakers from a script.",
+  "links": {
+    "GitHub": "https://github.com/nari-labs/dia"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "dialogue"
+  ],
+  "color": "#D35400"
+}

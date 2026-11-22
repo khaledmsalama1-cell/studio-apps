@@ -1,0 +1,20 @@
+{
+  "id": "lottiefiles",
+  "name": "LottieFiles",
+  "category": "motion",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Library of ready Lottie animations",
+  "description": "Thousands of free animations and an editor for Lottie files.",
+  "links": {
+    "Website": "https://lottiefiles.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "animation",
+    "assets"
+  ],
+  "color": "#00C1A2"
+}

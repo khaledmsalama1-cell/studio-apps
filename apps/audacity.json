@@ -1,0 +1,22 @@
+{
+  "id": "audacity",
+  "name": "Audacity",
+  "category": "audio-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Record and edit audio",
+  "description": "Free multi-track audio editor for cleaning up voiceovers.",
+  "links": {
+    "Website": "https://www.audacityteam.org",
+    "GitHub": "https://github.com/audacity/audacity"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "audio",
+    "desktop"
+  ],
+  "color": "#0000CC"
+}

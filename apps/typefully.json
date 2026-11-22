@@ -1,0 +1,20 @@
+{
+  "id": "typefully",
+  "name": "Typefully",
+  "category": "publishing",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Write and schedule threads",
+  "description": "Drafting and scheduling for X, LinkedIn and Threads.",
+  "links": {
+    "Website": "https://typefully.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "scheduling",
+    "writing"
+  ],
+  "color": "#1F1F1F"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kdenlive",
+  "name": "Kdenlive",
+  "category": "editors",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Full non-linear video editor",
+  "description": "A free multi-track editor for Linux, Windows and macOS.",
+  "links": {
+    "Website": "https://kdenlive.org"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "desktop",
+    "editing"
+  ],
+  "color": "#1F6FB2"
+}

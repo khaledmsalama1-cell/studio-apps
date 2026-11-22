@@ -1,0 +1,20 @@
+{
+  "id": "pika",
+  "name": "Pika",
+  "category": "video-gen",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Playful video effects and generation",
+  "description": "Short video generation and effects for social.",
+  "links": {
+    "Website": "https://pika.art"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "video",
+    "effects"
+  ],
+  "color": "#111111"
+}

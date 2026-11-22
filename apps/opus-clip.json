@@ -1,0 +1,20 @@
+{
+  "id": "opus-clip",
+  "name": "Opus Clip",
+  "category": "editors",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Long video into viral shorts",
+  "description": "Finds the best moments in long videos and reframes them to vertical clips.",
+  "links": {
+    "Website": "https://www.opus.pro"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "repurpose",
+    "short-form"
+  ],
+  "color": "#5E3BEE"
+}

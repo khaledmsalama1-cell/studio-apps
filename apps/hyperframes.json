@@ -1,0 +1,23 @@
+{
+  "id": "hyperframes",
+  "name": "HyperFrames",
+  "category": "video-engines",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Write HTML, render MP4",
+  "description": "HTML + GSAP compositions rendered to video by agents. The Studio's default engine.",
+  "links": {
+    "Website": "https://hyperframes.heygen.com",
+    "GitHub": "https://github.com/heygen-com/hyperframes"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "video",
+    "html",
+    "gsap"
+  ],
+  "color": "#2747E8"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "birefnet",
+  "name": "BiRefNet",
+  "category": "image-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Precise background removal",
+  "description": "High-resolution dichotomous segmentation for clean cutouts.",
+  "links": {
+    "GitHub": "https://github.com/ZhengPeng7/BiRefNet"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "cutout",
+    "local"
+  ],
+  "color": "#334155"
+}

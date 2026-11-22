@@ -1,0 +1,21 @@
+{
+  "id": "real-esrgan",
+  "name": "Real-ESRGAN",
+  "category": "image-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "BSD-3",
+  "tagline": "Upscale images and video frames",
+  "description": "Practical super-resolution for photos and frames.",
+  "links": {
+    "GitHub": "https://github.com/xinntao/Real-ESRGAN"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "upscale",
+    "local"
+  ],
+  "color": "#7C2D12"
+}

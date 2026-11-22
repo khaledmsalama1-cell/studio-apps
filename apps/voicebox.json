@@ -1,0 +1,22 @@
+{
+  "id": "voicebox",
+  "name": "Voicebox",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "An open-source voice studio",
+  "description": "Local desktop app for cloning and TTS with several engines and 23 languages. Connect its export folder.",
+  "links": {
+    "GitHub": "https://github.com/jamiepine/voicebox"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "desktop",
+    "tts",
+    "cloning"
+  ],
+  "color": "#5B4BDB"
+}

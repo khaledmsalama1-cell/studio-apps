@@ -1,0 +1,28 @@
+{
+  "id": "github",
+  "name": "GitHub",
+  "category": "storage",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Version your studio and registries",
+  "description": "Official GitHub MCP server for repos, issues and PRs.",
+  "links": {
+    "Website": "https://github.com",
+    "GitHub": "https://github.com/github/github-mcp-server"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "github",
+    "config": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    },
+    "keys": [],
+    "oauth": true
+  },
+  "tags": [
+    "git",
+    "mcp"
+  ],
+  "color": "#181717"
+}

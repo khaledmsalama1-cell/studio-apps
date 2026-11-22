@@ -1,0 +1,21 @@
+{
+  "id": "mochi",
+  "name": "Mochi",
+  "category": "video-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Open video model from Genmo",
+  "description": "Apache-licensed text-to-video model.",
+  "links": {
+    "GitHub": "https://github.com/genmoai/mochi"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "video",
+    "local"
+  ],
+  "color": "#F59E0B"
+}

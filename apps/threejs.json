@@ -1,0 +1,22 @@
+{
+  "id": "threejs",
+  "name": "Three.js",
+  "category": "motion",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "3D in the browser",
+  "description": "The standard WebGL library; works inside HyperFrames and Remotion compositions.",
+  "links": {
+    "Website": "https://threejs.org",
+    "GitHub": "https://github.com/mrdoob/three.js"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "3d",
+    "webgl"
+  ],
+  "color": "#049EF4"
+}

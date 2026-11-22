@@ -1,0 +1,20 @@
+{
+  "id": "submagic",
+  "name": "Submagic",
+  "category": "editors",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Animated captions for shorts",
+  "description": "Auto-captions, emojis and b-roll for short-form video.",
+  "links": {
+    "Website": "https://www.submagic.co"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "captions",
+    "short-form"
+  ],
+  "color": "#6C5CE7"
+}

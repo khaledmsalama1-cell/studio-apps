@@ -1,0 +1,23 @@
+{
+  "id": "openai-tts",
+  "name": "OpenAI TTS",
+  "category": "voice",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Speech from the OpenAI API",
+  "description": "Text-to-speech voices available through the OpenAI audio API.",
+  "links": {
+    "Docs": "https://platform.openai.com/docs/guides/text-to-speech"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "OPENAI_API_KEY"
+    ]
+  },
+  "tags": [
+    "tts",
+    "api"
+  ],
+  "color": "#10A37F"
+}

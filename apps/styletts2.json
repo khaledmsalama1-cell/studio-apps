@@ -1,0 +1,21 @@
+{
+  "id": "styletts2",
+  "name": "StyleTTS 2",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Human-level TTS research model",
+  "description": "Style diffusion TTS trained on LJSpeech and LibriTTS.",
+  "links": {
+    "GitHub": "https://github.com/yl4579/StyleTTS2"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "research"
+  ],
+  "color": "#0F766E"
+}

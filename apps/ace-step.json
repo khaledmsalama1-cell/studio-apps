@@ -1,0 +1,21 @@
+{
+  "id": "ace-step",
+  "name": "ACE-Step",
+  "category": "music",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Open music foundation model",
+  "description": "Fast open-source song generation with lyrics.",
+  "links": {
+    "GitHub": "https://github.com/ace-step/ACE-Step"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "music",
+    "local"
+  ],
+  "color": "#F97316"
+}

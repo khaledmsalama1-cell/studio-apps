@@ -1,0 +1,20 @@
+{
+  "id": "ideogram",
+  "name": "Ideogram",
+  "category": "image-gen",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Images with readable text",
+  "description": "Strong at typography and posters.",
+  "links": {
+    "Website": "https://ideogram.ai"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "image",
+    "typography"
+  ],
+  "color": "#1F1F1F"
+}

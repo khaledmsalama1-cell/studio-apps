@@ -1,0 +1,20 @@
+{
+  "id": "openverse",
+  "name": "Openverse",
+  "category": "stock",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Search openly licensed media",
+  "description": "Search CC-licensed images and audio across sources.",
+  "links": {
+    "Website": "https://openverse.org"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "stock",
+    "cc"
+  ],
+  "color": "#FFE033"
+}

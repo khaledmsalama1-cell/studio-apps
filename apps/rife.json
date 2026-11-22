@@ -1,0 +1,21 @@
+{
+  "id": "rife",
+  "name": "RIFE",
+  "category": "image-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Smooth slow motion by frame interpolation",
+  "description": "Real-time intermediate flow estimation for video.",
+  "links": {
+    "GitHub": "https://github.com/hzwer/ECCV2022-RIFE"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "interpolation",
+    "video"
+  ],
+  "color": "#059669"
+}

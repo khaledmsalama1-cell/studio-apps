@@ -1,0 +1,32 @@
+{
+  "id": "apify",
+  "name": "Apify",
+  "category": "research",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Instagram, Facebook and 5,000+ scrapers",
+  "description": "Paid-per-result scrapers; official MCP server.",
+  "links": {
+    "Website": "https://apify.com",
+    "MCP docs": "https://docs.apify.com/platform/integrations/mcp"
+  },
+  "integration": {
+    "type": "mcp",
+    "name": "apify",
+    "config": {
+      "type": "http",
+      "url": "https://mcp.apify.com",
+      "headers": {
+        "Authorization": "Bearer ${APIFY_TOKEN}"
+      }
+    },
+    "keys": [
+      "APIFY_TOKEN"
+    ]
+  },
+  "tags": [
+    "scraping",
+    "social"
+  ],
+  "color": "#2BA84A"
+}

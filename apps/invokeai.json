@@ -1,0 +1,22 @@
+{
+  "id": "invokeai",
+  "name": "InvokeAI",
+  "category": "image-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Creative studio for diffusion models",
+  "description": "Canvas-based image generation for professional workflows.",
+  "links": {
+    "Website": "https://invoke.com",
+    "GitHub": "https://github.com/invoke-ai/InvokeAI"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "image",
+    "local"
+  ],
+  "color": "#E9B53B"
+}

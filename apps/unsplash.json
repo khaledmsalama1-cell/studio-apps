@@ -1,0 +1,24 @@
+{
+  "id": "unsplash",
+  "name": "Unsplash",
+  "category": "stock",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Free high-resolution photos",
+  "description": "Photo library with an API; follow its attribution guidelines.",
+  "links": {
+    "Website": "https://unsplash.com",
+    "API": "https://unsplash.com/developers"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "UNSPLASH_ACCESS_KEY"
+    ]
+  },
+  "tags": [
+    "stock",
+    "photo"
+  ],
+  "color": "#111111"
+}

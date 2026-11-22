@@ -1,0 +1,21 @@
+{
+  "id": "whisper",
+  "name": "Whisper",
+  "category": "transcription",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MIT",
+  "tagline": "Speech recognition in 99 languages",
+  "description": "OpenAI's open speech model; HyperFrames uses it for caption timings.",
+  "links": {
+    "GitHub": "https://github.com/openai/whisper"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "asr",
+    "local"
+  ],
+  "color": "#10A37F"
+}

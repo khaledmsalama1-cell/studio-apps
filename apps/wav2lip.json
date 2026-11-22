@@ -1,0 +1,20 @@
+{
+  "id": "wav2lip",
+  "name": "Wav2Lip",
+  "category": "avatars",
+  "kind": "open-source",
+  "pricing": "free",
+  "tagline": "Lip-sync any video to audio",
+  "description": "Classic lip-sync model (research/non-commercial license).",
+  "links": {
+    "GitHub": "https://github.com/Rudrabha/Wav2Lip"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "lip-sync",
+    "local"
+  ],
+  "color": "#6366F1"
+}

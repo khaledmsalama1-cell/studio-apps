@@ -1,0 +1,20 @@
+{
+  "id": "suno",
+  "name": "Suno",
+  "category": "music",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Songs from a prompt",
+  "description": "Generates full songs with vocals; check its terms for commercial use.",
+  "links": {
+    "Website": "https://suno.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "music",
+    "generation"
+  ],
+  "color": "#000000"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sesame-csm",
+  "name": "Sesame CSM",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Conversational speech model",
+  "description": "Generates conversational speech from text and audio context.",
+  "links": {
+    "GitHub": "https://github.com/SesameAILabs/csm"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "conversational"
+  ],
+  "color": "#B45309"
+}

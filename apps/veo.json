@@ -1,0 +1,23 @@
+{
+  "id": "veo",
+  "name": "Google Veo",
+  "category": "video-gen",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Google's video model with audio",
+  "description": "Video generation with native sound via the Gemini API and Vertex AI.",
+  "links": {
+    "Docs": "https://ai.google.dev/gemini-api/docs/video"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "GEMINI_API_KEY"
+    ]
+  },
+  "tags": [
+    "video",
+    "api"
+  ],
+  "color": "#4285F4"
+}

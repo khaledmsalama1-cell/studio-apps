@@ -1,0 +1,22 @@
+{
+  "id": "remotion",
+  "name": "Remotion",
+  "category": "video-engines",
+  "kind": "open-source",
+  "pricing": "freemium",
+  "license": "Remotion License",
+  "tagline": "Videos as React components",
+  "description": "Programmatic video with React. Free for individuals and small companies; company license above that.",
+  "links": {
+    "Website": "https://www.remotion.dev",
+    "GitHub": "https://github.com/remotion-dev/remotion"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "video",
+    "react"
+  ],
+  "color": "#0B84F3"
+}

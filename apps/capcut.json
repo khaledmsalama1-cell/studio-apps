@@ -1,0 +1,20 @@
+{
+  "id": "capcut",
+  "name": "CapCut",
+  "category": "editors",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Mobile-first editor with templates",
+  "description": "Popular editor for short-form video with trend templates and auto-captions.",
+  "links": {
+    "Website": "https://www.capcut.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "short-form",
+    "editing"
+  ],
+  "color": "#000000"
+}

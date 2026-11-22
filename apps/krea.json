@@ -1,0 +1,20 @@
+{
+  "id": "krea",
+  "name": "Krea",
+  "category": "image-gen",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Real-time generation and enhancing",
+  "description": "Real-time image generation, upscaling and video.",
+  "links": {
+    "Website": "https://www.krea.ai"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "image",
+    "upscale"
+  ],
+  "color": "#000000"
+}

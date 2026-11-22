@@ -1,0 +1,21 @@
+{
+  "id": "cogvideo",
+  "name": "CogVideoX",
+  "category": "video-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Open text-to-video model",
+  "description": "Open video generation from the GLM team.",
+  "links": {
+    "GitHub": "https://github.com/THUDM/CogVideo"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "video",
+    "local"
+  ],
+  "color": "#3B82F6"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "orpheus-tts",
+  "name": "Orpheus TTS",
+  "category": "voice",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "Apache-2.0",
+  "tagline": "Human-sounding open TTS",
+  "description": "LLM-based speech model with emotive tags.",
+  "links": {
+    "GitHub": "https://github.com/canopyai/Orpheus-TTS"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "tts",
+    "local"
+  ],
+  "color": "#6D28D9"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dub",
+  "name": "Dub",
+  "category": "analytics",
+  "kind": "open-source",
+  "pricing": "freemium",
+  "license": "AGPL",
+  "tagline": "Short links with click analytics",
+  "description": "Branded short links for captions and bios.",
+  "links": {
+    "Website": "https://dub.co",
+    "GitHub": "https://github.com/dubinc/dub"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "DUB_API_KEY"
+    ]
+  },
+  "tags": [
+    "links"
+  ],
+  "color": "#000000"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ayrshare",
+  "name": "Ayrshare",
+  "category": "publishing",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Social posting API",
+  "description": "One API to post to many networks.",
+  "links": {
+    "Website": "https://www.ayrshare.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "AYRSHARE_API_KEY"
+    ]
+  },
+  "tags": [
+    "scheduling",
+    "api"
+  ],
+  "color": "#E14D2A"
+}

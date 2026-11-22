@@ -1,0 +1,21 @@
+{
+  "id": "davinci-resolve",
+  "name": "DaVinci Resolve",
+  "category": "editors",
+  "kind": "desktop",
+  "pricing": "freemium",
+  "tagline": "Pro editing, color and audio",
+  "description": "Free version covers editing, color grading and Fairlight audio; Studio version is paid.",
+  "links": {
+    "Website": "https://www.blackmagicdesign.com/products/davinciresolve"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "desktop",
+    "editing",
+    "color"
+  ],
+  "color": "#1B1B1B"
+}

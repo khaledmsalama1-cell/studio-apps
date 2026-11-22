@@ -1,0 +1,23 @@
+{
+  "id": "cloudinary",
+  "name": "Cloudinary",
+  "category": "storage",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "Media hosting and transformations",
+  "description": "Host, resize and transform images and video by URL.",
+  "links": {
+    "Website": "https://cloudinary.com"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "CLOUDINARY_URL"
+    ]
+  },
+  "tags": [
+    "dam",
+    "cdn"
+  ],
+  "color": "#3448C5"
+}

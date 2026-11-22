@@ -1,0 +1,21 @@
+{
+  "id": "penpot",
+  "name": "Penpot",
+  "category": "design",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "MPL-2.0",
+  "tagline": "Open-source design and prototyping",
+  "description": "Browser-based design tool built on open standards (SVG).",
+  "links": {
+    "Website": "https://penpot.app",
+    "GitHub": "https://github.com/penpot/penpot"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "design"
+  ],
+  "color": "#000000"
+}

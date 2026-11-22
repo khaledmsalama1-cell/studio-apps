@@ -1,0 +1,19 @@
+{
+  "id": "mcp-registry",
+  "name": "MCP Registry",
+  "category": "mcp",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "The official catalog of MCP servers",
+  "description": "Find more connectors to add with Add from a link.",
+  "links": {
+    "Website": "https://registry.modelcontextprotocol.io"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "directory"
+  ],
+  "color": "#000000"
+}

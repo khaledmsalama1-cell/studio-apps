@@ -1,0 +1,24 @@
+{
+  "id": "meta-graph",
+  "name": "Meta Graph API",
+  "category": "social-apis",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Official Instagram and Facebook data",
+  "description": "Business Discovery for Instagram and your Facebook Pages.",
+  "links": {
+    "Docs": "https://developers.facebook.com/docs/instagram-platform"
+  },
+  "integration": {
+    "type": "keys",
+    "keys": [
+      "META_ACCESS_TOKEN",
+      "META_IG_USER_ID"
+    ]
+  },
+  "tags": [
+    "instagram",
+    "facebook"
+  ],
+  "color": "#0866FF"
+}

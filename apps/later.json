@@ -1,0 +1,20 @@
+{
+  "id": "later",
+  "name": "Later",
+  "category": "publishing",
+  "kind": "service",
+  "pricing": "paid",
+  "tagline": "Visual planner for Instagram and TikTok",
+  "description": "Drag-and-drop calendar with link in bio.",
+  "links": {
+    "Website": "https://later.com"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "scheduling",
+    "instagram"
+  ],
+  "color": "#FA6B5D"
+}

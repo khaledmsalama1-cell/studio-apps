@@ -1,0 +1,21 @@
+{
+  "id": "anthropic-skills",
+  "name": "Anthropic skills",
+  "category": "skills",
+  "kind": "skill",
+  "pricing": "free",
+  "tagline": "Decks, docs, PDFs and spreadsheets",
+  "description": "Anthropic's public skills: pptx, docx, pdf, xlsx and more.",
+  "links": {
+    "GitHub": "https://github.com/anthropics/skills"
+  },
+  "integration": {
+    "type": "skills-repo",
+    "repo": "anthropics/skills"
+  },
+  "tags": [
+    "skills",
+    "documents"
+  ],
+  "color": "#D97757"
+}

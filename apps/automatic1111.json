@@ -1,0 +1,21 @@
+{
+  "id": "automatic1111",
+  "name": "Stable Diffusion WebUI",
+  "category": "image-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "AGPL",
+  "tagline": "The classic Stable Diffusion UI",
+  "description": "AUTOMATIC1111's web UI with a huge extension ecosystem.",
+  "links": {
+    "GitHub": "https://github.com/AUTOMATIC1111/stable-diffusion-webui"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "image",
+    "local"
+  ],
+  "color": "#F97316"
+}

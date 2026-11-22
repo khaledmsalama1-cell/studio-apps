@@ -1,0 +1,19 @@
+{
+  "id": "linkedin-api",
+  "name": "LinkedIn API",
+  "category": "social-apis",
+  "kind": "service",
+  "pricing": "free",
+  "tagline": "Post and read LinkedIn content",
+  "description": "Share and Community Management APIs for pages.",
+  "links": {
+    "Docs": "https://learn.microsoft.com/linkedin/"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "linkedin"
+  ],
+  "color": "#0A66C2"
+}

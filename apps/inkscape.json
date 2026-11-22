@@ -1,0 +1,21 @@
+{
+  "id": "inkscape",
+  "name": "Inkscape",
+  "category": "design",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Vector graphics editor",
+  "description": "Edit SVG logos and icons.",
+  "links": {
+    "Website": "https://inkscape.org"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "vector",
+    "desktop"
+  ],
+  "color": "#000000"
+}

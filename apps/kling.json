@@ -1,0 +1,19 @@
+{
+  "id": "kling",
+  "name": "Kling",
+  "category": "video-gen",
+  "kind": "service",
+  "pricing": "freemium",
+  "tagline": "High-motion video generation",
+  "description": "Kuaishou's video models, also available through fal and Replicate.",
+  "links": {
+    "Website": "https://klingai.com"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "video"
+  ],
+  "color": "#0A0A0A"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "open-webui",
+  "name": "Open WebUI",
+  "category": "local-ai",
+  "kind": "open-source",
+  "pricing": "free",
+  "tagline": "Self-hosted chat UI for local models",
+  "description": "A web interface for Ollama and OpenAI-compatible APIs.",
+  "links": {
+    "Website": "https://openwebui.com",
+    "GitHub": "https://github.com/open-webui/open-webui"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "llm",
+    "self-hosted"
+  ],
+  "color": "#111827"
+}

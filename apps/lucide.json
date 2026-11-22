@@ -1,0 +1,21 @@
+{
+  "id": "lucide",
+  "name": "Lucide",
+  "category": "stock",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "ISC",
+  "tagline": "Clean open-source icons",
+  "description": "The icon set used by the Studio UI.",
+  "links": {
+    "Website": "https://lucide.dev",
+    "GitHub": "https://github.com/lucide-icons/lucide"
+  },
+  "integration": {
+    "type": "link"
+  },
+  "tags": [
+    "icons"
+  ],
+  "color": "#F56565"
+}

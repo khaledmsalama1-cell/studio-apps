@@ -1,0 +1,23 @@
+{
+  "id": "comfyui",
+  "name": "ComfyUI",
+  "category": "image-gen",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "GPL",
+  "tagline": "Node-based image and video generation",
+  "description": "The most flexible local UI for diffusion workflows.",
+  "links": {
+    "Website": "https://www.comfy.org",
+    "GitHub": "https://github.com/comfyanonymous/ComfyUI"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "image",
+    "video",
+    "local"
+  ],
+  "color": "#172DD7"
+}

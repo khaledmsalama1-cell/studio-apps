@@ -1,0 +1,22 @@
+{
+  "id": "upscayl",
+  "name": "Upscayl",
+  "category": "image-tools",
+  "kind": "open-source",
+  "pricing": "free",
+  "license": "AGPL",
+  "tagline": "Desktop image upscaler",
+  "description": "Free app to upscale images with AI models.",
+  "links": {
+    "Website": "https://upscayl.org",
+    "GitHub": "https://github.com/upscayl/upscayl"
+  },
+  "integration": {
+    "type": "folder"
+  },
+  "tags": [
+    "upscale",
+    "desktop"
+  ],
+  "color": "#4F46E5"
+}
