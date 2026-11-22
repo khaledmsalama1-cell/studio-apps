@@ -1,6 +1,6 @@
 # studio-apps
 
-The app registry for [Brand Content Studio](https://github.com/khaledmsalama1-cell/brand-content-studio): 167 tools, services, skills and MCP connectors for making brand content with Claude.
+The app registry for [Studio](https://github.com/khaledmsalama1-cell/studio): 167 tools, services, skills and MCP connectors for making brand content with Claude.
 
 The Studio scans this repo (**Apps → Sources → Refresh**) and lists everything here on its Apps page, where each app can be connected in one click.
 
